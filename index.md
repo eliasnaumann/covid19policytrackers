@@ -63,8 +63,9 @@ Grant Mills,
 [@shelter_live](https://twitter.com/shelter_live),
 [@ashamin](https://twitter.com/ashamin),
 [Seth Schimmel](https://github.com/sethsch),
-[@AsjadNaqvi](https://twitter.com/AsjadNaqvi), and
-[@jsvine](https://twitter.com/jsvine).
+[@AsjadNaqvi](https://twitter.com/AsjadNaqvi),
+[@jsvine](https://twitter.com/jsvine), and
+[@zehrarizvi](https://twitter.com/zehrarizvi).
 
 The collection is structured around the areas of
 - [1. Non-Pharmaceutical Interventions incl. Confinement and Travel](#1-non-pharmaceutical-interventions-incl-confinement-and-travel)
@@ -75,7 +76,7 @@ The collection is structured around the areas of
 - [6. Health and Care Policy](#6-health-and-care-policy)
 - [7. Education, Research and Innovation](#7-education-research-and-innovation)
 - [8. Regions, Cities, SMEs, Tourism](#8-regions-cities-smes-tourism)
-- [9. Public Attitudes, Behavioural Responses, Mobility](#9-public-attitudes-behavioural-responses-mobility)
+- [9. Behavioural Responses and Mobility](#9-behavioural-responses-and-mobility)
 - [10. Politics, Elections, Policy Making](#10-politics-elections-policy-making)
 - [11. Civic Freedom, Human Rights, Media](#11-civic-freedom-human-rights-media)
 - [11. War, Peace and Civil Unrest](#11-war-peace-and-civil-unrest)
@@ -266,10 +267,10 @@ Raj Chetty
 [@L_van_Lent](https://twitter.com/L_van_Lent)
 
 - [Covid Stimulus Watch](https://covidstimuluswatch.org/blog/2020-04/covid-stimulus-watch-new-website-documents-accountability-track-records-cares-act)
-- Focus: strengthen corporate accountability. It assembles CARES Act recipient data on grants and loans per firm and combines it with information about each firm’s history of regulatory violations, previous government assistance, federal tax avoidance, and CEO and worker pay practices.
-- Coverage: US firms receiving grants and loans through the CARES Act. At the moment, it contains more than 5,700 awards, totalling $54 billion.
-- Data format: html, downloadable as csv and xml
-- By [@GoodJobsFirst](https://twitter.com/GoodJobsFirst)
+  - Focus: strengthen corporate accountability. It assembles CARES Act recipient data on grants and loans per firm and combines it with information about each firm’s history of regulatory violations, previous government assistance, federal tax avoidance, and CEO and worker pay practices.
+  - Coverage: US firms receiving grants and loans through the CARES Act. At the moment, it contains more than 5,700 awards, totalling $54 billion.
+  - Data format: html, downloadable as csv and xml
+  - By [@GoodJobsFirst](https://twitter.com/GoodJobsFirst)
 [@DirtDiggers](https://twitter.com/DirtDiggers)
 [@GregLeRoy4](https://twitter.com/GregLeRoy4)
 
@@ -560,7 +561,7 @@ incl. [@AsjadNaqvi](https://twitter.com/AsjadNaqvi)
     -   Data format: pdf
     -   By [@OECD_local](https://twitter.com/OECD_local)
 
-## 9. Public Attitudes, Behavioural Responses, Mobility
+## 9. Behavioural Responses and Mobility
 
 - [Google Covid-19 Community Mobility Reports](https://www.google.com/covid19/mobility/)
     - Focus: mobility trends over time by geography, across different categories of places such as retail and recreation, groceries and pharmacies, parks, transit stations, workplaces, and residential. Data is sourced from Google Apps such as Google Maps.
@@ -759,7 +760,7 @@ incl. [@AsjadNaqvi](https://twitter.com/AsjadNaqvi)
 ## 14. National Surveys (with probability samples)
 *edited by [@eliasnau](https://twitter.com/eliasnau/)*
 
-Countries in this section (with number of surveys in brackets): Germany (3), US (2), Netherlands (1), Norway (1)
+Countries in this section (with number of surveys in brackets): Germany (3), US (2), Netherlands (1), Norway (1), UK(1)
 
 - [SOEP-CoV](https://www.soep-cov.de/)
     - Focus: Employment and financial situation, children and family, COVID-related behavior and perceptions, mental health, political attitudes
@@ -827,15 +828,15 @@ Countries in this section (with number of surveys in brackets): Germany (3), US 
     - By [@covidimpact](https://twitter.com/covidimpact) [Data Foundation](https://www.datafoundation.org/)
 
 - [LISS Panel](https://www.lissdata.nl/)
-    - Focus: N/A
+    - Focus: various topics based on several studies proposed by individual researchers (in addition to the standard monthly LISS questions)
     - Coverage
       - Country: Netherlands
       - Target population and sampling: Probability sample of Dutch Households
-      - Time: N/A
-      - Interval of data collection: N/A
+      - Time: since March 2020
+      - Interval of data collection: monthly
       - Availability of individual level data from pre-CoVID: Yes
       - Number of observations: ~ 7.000 individuals each month
-    - Micro data availablity: yes
+    - Micro data availablity: yes (planned)
     - Data format: .dta, .sav
     - By [@centerdata](https://twitter.com/centerdata)
 
@@ -851,6 +852,20 @@ Countries in this section (with number of surveys in brackets): Germany (3), US 
     - Micro data availablity: no (planned: yes)
     - Data format: .dta, .sav
     - By [@DIGSSCORE](https://twitter.com/DIGSSCORE) [@uib](https://twitter.com/uib)
+
+- [Understanding Society](https://www.understandingsociety.ac.uk/research/themes/covid-19)
+    - Focus: Employment and financial situation, children and family, COVID-related behavior and perceptions, mental health, political attitudes
+    - Coverage
+      - Country: UK
+      - Target population and sampling: Probability sample of households, population 16+
+      - Time: since April 2020 (wave 1), ongoing
+      - Interval of data collection: monthly
+      - Availability of individual level data from pre-CoVID: Yes
+      - Number of observations: ~ 40.000
+    - Micro data availablity: yes, planned for end of May via [UK Data Service](https://ukdataservice.ac.uk/)
+    - Data format: .dta, .sav
+    - By [@usociety](https://twitter.com/usociety)
+
 
 ## 15. National and comparative surveys (with non-probability samples)
 *edited by [@eliasnau](https://twitter.com/eliasnau/)*
@@ -975,6 +990,19 @@ We rank order the list of surveys by sampling method used. Surveys with non-prob
             [@caria_stefano](https://twitter.com/caria_stefano)
     - [Individual level data](https://osf.io/3sn2k/)
 
+- [COVIDiSTRESS Global Survey](https://osf.io/z39us/wiki/home/)
+  - Focus: Psychological stress, compliance with behavioral guidelines, trust in governmental institutions and their preventive measures
+  - Coverage
+    - Countries: > 50
+    - Target population and sampling: people aged 18 and over, snowballing via social media
+    - Time: since 03/30, ongoing
+    - Interval of data collection: continuous
+    - Availability of individual level data from pre-CoVID: No
+    - Number of observations: > 150,000 respondents
+  - Data format: individual level data as csv
+  - By: International researchers from 40+ universities collaborating in the covidistress global survey community, Principal Investigator: Andreas Lieberoth [@lieberothdk](https://twitter.com/lieberothdk)
+  - [Individual level data](https://osf.io/z39us/files/)
+
 - [Living, working and COVID-19](https://www.eurofound.europa.eu/data/covid-19)
   - Focus: Work and well-being
   - Coverage
@@ -986,6 +1014,18 @@ We rank order the list of surveys by sampling method used. Surveys with non-prob
     - Number of observations: ~ 70,000
   - Data format: aggregate data (also for some subgroups) in .html and .csv
   - By: [@eurofound](https://twitter.com/eurofound)
+
+- [Monitero Nacional de Sintomas y Practicas COVID-19 en Chile](https://www.movid19.cl/)
+  - Focus: Health situation and well-being
+  - Coverage
+    - Countries: Chile
+    - Target population and sampling: people aged 18 and over, snowball sampling
+    - Time: 04/13 - 05/24, ongoing
+    - Interval of data collection: weekly cross-sections and weekly individual level panel
+    - Availability of individual level data from pre-CoVID: No
+    - Number of observations: 15,000-37,000 per week
+  - Data format: N/A
+  - By: Colegio Médico de Chile y Universidad de Chile, Facultad de Psicología, Universidad Diego Portales, PI: Cristóbal Cuadrado, [@CCuadrado](https://twitter.com/CCuadradoN)
 
 ### N/A
 
